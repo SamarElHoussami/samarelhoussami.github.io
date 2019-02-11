@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https//samarelhoussami.github.io/my-website/precache-manifest.a0685e6978a6fdcdcf884ed04c4507ca.js"
+  "/my-website/precache-manifest.d20845e87f1f2d950b649f558f942cbb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https//samarelhoussami.github.io/my-website/index.html", {
+workbox.routing.registerNavigationRoute("/my-website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
