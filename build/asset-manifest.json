@@ -1,0 +1,20 @@
+{
+  "main.css": "/my-website/static/css/main.997b71c6.chunk.css",
+  "main.js": "/my-website/static/js/main.f76b59d8.chunk.js",
+  "main.js.map": "/my-website/static/js/main.f76b59d8.chunk.js.map",
+  "static/js/1.a1296725.chunk.js": "/my-website/static/js/1.a1296725.chunk.js",
+  "static/js/1.a1296725.chunk.js.map": "/my-website/static/js/1.a1296725.chunk.js.map",
+  "runtime~main.js": "/my-website/static/js/runtime~main.9eb36da8.js",
+  "runtime~main.js.map": "/my-website/static/js/runtime~main.9eb36da8.js.map",
+  "static/media/Page.css": "/my-website/static/media/bg-about.ec26ea62.jpg",
+  "static/media/logo.png": "/my-website/static/media/logo.aac33176.png",
+  "static/media/github-logo.png": "/my-website/static/media/github-logo.0c768863.png",
+  "static/media/me.png": "/my-website/static/media/me.c712b191.png",
+  "static/media/milo.png": "/my-website/static/media/milo.2d14011d.png",
+  "static/media/arrow.png": "/my-website/static/media/arrow.44f28ff5.png",
+  "static/media/myResume.pdf": "/my-website/static/media/myResume.c3506120.pdf",
+  "static/css/main.997b71c6.chunk.css.map": "/my-website/static/css/main.997b71c6.chunk.css.map",
+  "index.html": "/my-website/index.html",
+  "precache-manifest.246565d6625d8ed3bf7dbf5411db24d9.js": "/my-website/precache-manifest.246565d6625d8ed3bf7dbf5411db24d9.js",
+  "service-worker.js": "/my-website/service-worker.js"
+}
