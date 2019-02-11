@@ -1,0 +1,58 @@
+.Header {
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+.App-logo {
+  margin-top: 15px;
+  margin-left: 20px;
+  height: 60px;
+  display: inline-block;
+  z-index: 1;
+}
+
+.App-logo:hover {
+  animation-name: App-logo-spin;
+  animation-duration: 900ms;
+  animation-iteration-count: 1;
+}
+
+.navigation {
+  position: absolute;
+  padding-top: 30px;
+  right: 10px;
+  display: inline-block;
+  z-index: 1;
+}
+
+.dash-btn {
+  height: 40px;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
+
+.dash-btn:hover { 
+  color: rgba(180, 180, 180, 1);
+  cursor: pointer;
+}
+
+.dash-btn:focus {
+  color: rgba(180, 180, 180, 1);
+  outline: none;
+  border: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
